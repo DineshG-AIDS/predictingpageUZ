@@ -13,7 +13,7 @@
   color: white;
   text-align: center;
 } */
-.flex{
+.flex {
   text-align: center;
 }
 
@@ -60,6 +60,7 @@ body {
   height: 220px;
   background: #333;
   border-radius: 12px;
+  border-color: black;
   overflow: hidden;
   transition: 0.5s;
 }
